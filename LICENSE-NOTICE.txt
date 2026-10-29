@@ -1,0 +1,11 @@
+Ulamander Acrobat — distribution repository
+
+This repository contains COMPILED INSTALLERS ONLY. No source code is published here.
+
+© Ulamander — https://ulamander.com — All rights reserved.
+This software is proprietary. Every copy requires a personal activation key; redistribution,
+modification, reverse engineering or resale of this software is not permitted without written
+permission from Ulamander.
+
+Ulamander Acrobat is an independent product and is not affiliated with, endorsed by, or
+sponsored by Adobe Inc. "Acrobat" is used here as a working product name only.
