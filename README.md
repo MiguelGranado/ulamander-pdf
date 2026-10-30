@@ -19,7 +19,7 @@
 - **Everywhere** — one app for macOS, Windows and Android, in Italian, English and Spanish.
 - **Fast** — native rendering, smooth on large documents.
 
-More information: **[get.ulamander.com](https://get.ulamander.com)** · Part of the [Ulamander](https://ulamander.com) ecosystem.
+More information: **[pdf.ulamander.com](https://pdf.ulamander.com)** · Part of the [Ulamander](https://ulamander.com) ecosystem.
 
 ## What it is
 
@@ -79,7 +79,7 @@ no in‑app purchase.
 | Annual | **€20 / year** |
 | Lifetime | **€50 once** |
 
-**[✉️ Request a license →](mailto:info@ulamander.com?subject=Ulamander%20PDF%20license)**
+**[🔑 Get a license →](https://pdf.ulamander.com/#pricing)**
 
 What happens with your activation: the app sends your key and a random device identifier to our own
 activation server — **never your documents**. A key only works on one device at a time; you can always ask
