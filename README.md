@@ -45,12 +45,11 @@ own voices.
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-home.png" width="48%" alt="Home screen" />
-  <img src="assets/screenshot-viewer.png" width="48%" alt="Document viewer" />
+  <img src="assets/screenshot-mockup.png" width="100%" alt="Ulamander PDF on Mac and iPhone" />
 </p>
 <p align="center">
+  <img src="assets/screenshot-home.png" width="48%" alt="Home screen" />
   <img src="assets/screenshot-tools.png" width="48%" alt="All tools" />
-  <img src="assets/screenshot-viewer-light.png" width="48%" alt="Light theme" />
 </p>
 
 ## Downloads
