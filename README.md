@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" width="96" alt="Ulamander logo" />
 
-  # Ulamander Acrobat
+  # Ulamander PDF
 
   **A local‑first PDF reader and editor for macOS, Windows and Android.**
   Your documents never leave your device — no cloud, no account, no telemetry.
@@ -10,17 +10,21 @@
   [![License](https://img.shields.io/badge/access-activation%20key%20required-002d5d)](#get-a-license)
 </div>
 
-> **Note on the name:** "Ulamander Acrobat" is a working title, not a claim of affiliation with Adobe.
-> **Ulamander is an independent product and is not affiliated with, endorsed by, or sponsored by Adobe Inc.**
-> "Acrobat" is a trademark of Adobe. We're evaluating a rename to avoid any confusion — if you spot it under
-> a different name later (e.g. *Ulamander PDF*), it's the same app.
-
 ---
+
+## Why Ulamander PDF
+
+- **Private by design** — files are processed on your device; nothing is uploaded, ever.
+- **Complete** — edit, annotate, sign, fill forms, OCR, merge, split, compress, protect and convert.
+- **Everywhere** — one app for macOS, Windows and Android, in Italian, English and Spanish.
+- **Fast** — native rendering, smooth on large documents.
+
+More information: **[get.ulamander.com](https://get.ulamander.com)** · Part of the [Ulamander](https://ulamander.com) ecosystem.
 
 ## What it is
 
 Open, read, edit, sign, organize, protect and export PDF files — entirely on your own machine. Built for
-people who want an Acrobat‑style workflow without sending their documents to anyone's server.
+people who want a complete PDF workflow without sending their documents to anyone's server.
 
 | | |
 |---|---|
@@ -52,9 +56,9 @@ This repository ships **compiled installers only** — no source code. Grab the 
 
 | Platform | File | Notes |
 |---|---|---|
-| 🍎 macOS (Apple Silicon) | [`Ulamander-Acrobat.dmg`](../../releases/latest/download/Ulamander-Acrobat-macOS-arm64.dmg) | Unsigned build — see *Install notes* below |
-| 🪟 Windows (x64) | [`Ulamander-Acrobat-Setup.exe`](../../releases/latest/download/Ulamander-Acrobat-Setup-win-x64.exe) | Unsigned build — see *Install notes* below |
-| 🤖 Android | [`Ulamander-Acrobat.apk`](../../releases/latest/download/Ulamander-Acrobat-android.apk) | Enable "install from unknown sources" |
+| 🍎 macOS (Apple Silicon) | [`Ulamander-PDF.dmg`](../../releases/latest/download/Ulamander-PDF-macOS-arm64.dmg) | Unsigned build — see *Install notes* below |
+| 🪟 Windows (x64) | [`Ulamander-PDF-Setup.exe`](../../releases/latest/download/Ulamander-PDF-Setup-win-x64.exe) | Unsigned build — see *Install notes* below |
+| 🤖 Android | [`Ulamander-PDF.apk`](../../releases/latest/download/Ulamander-PDF-android.apk) | Enable "install from unknown sources" |
 
 ### Install notes
 
@@ -66,7 +70,7 @@ This repository ships **compiled installers only** — no source code. Grab the 
 
 ## Get a license
 
-Ulamander Acrobat is **invitation‑only software**: it's fully functional in the download, but every copy
+Ulamander PDF is **invitation‑only software**: it's fully functional in the download, but every copy
 needs a personal, one‑time activation key tied to your device before it unlocks. There's no free tier and
 no in‑app purchase.
 
@@ -75,7 +79,7 @@ no in‑app purchase.
 | Annual | **€20 / year** |
 | Lifetime | **€50 once** |
 
-**[✉️ Request a license →](mailto:info@ulamander.com?subject=Ulamander%20Acrobat%20license)**
+**[✉️ Request a license →](mailto:info@ulamander.com?subject=Ulamander%20PDF%20license)**
 
 What happens with your activation: the app sends your key and a random device identifier to our own
 activation server — **never your documents**. A key only works on one device at a time; you can always ask
@@ -95,4 +99,14 @@ Questions, bugs or license issues → **[info@ulamander.com](mailto:info@ulamand
 ---
 
 <p align="center"><sub>© Ulamander — <a href="https://ulamander.com">ulamander.com</a>. All rights reserved.
-Not affiliated with Adobe Inc.</sub></p>
+Independent product built on the open PDF standard (ISO 32000).</sub></p>
+
+## FAQ
+
+**What is Ulamander PDF?** A private PDF reader and editor for macOS, Windows and Android that works offline.
+
+**Does it upload my PDFs to a server?** No. Documents are opened, edited and saved locally.
+
+**Which platforms are supported?** macOS (Apple Silicon), Windows x64 and Android.
+
+**How much does it cost?** €20 per year or €50 once (lifetime). Each copy needs a personal activation key.
