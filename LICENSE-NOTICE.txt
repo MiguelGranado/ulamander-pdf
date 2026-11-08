@@ -1,0 +1,10 @@
+Ulamander PDF — distribution repository
+
+This repository contains COMPILED INSTALLERS ONLY. No source code is published here.
+
+© Ulamander — https://ulamander.com — All rights reserved.
+This software is proprietary. Every copy requires a personal activation key; redistribution,
+modification, reverse engineering or resale of this software is not permitted without written
+permission from Ulamander.
+
+Ulamander PDF is an independent product built on the open PDF standard (ISO 32000).

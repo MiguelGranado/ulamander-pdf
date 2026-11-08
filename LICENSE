@@ -1,0 +1,183 @@
+Ulamander Software License 1.0
+================================
+
+Copyright © 2024–2026 Ulamander · ulamander.com
+All rights reserved / Todos los derechos reservados.
+
+Producto / Product: Ulamander PDF (también denominado «Ulamander Documentos» /
+«Ulamander Docs» en código de paquete y metadatos; interfaz comercial «Ulamander PDF»).
+Titular / Owner: Ulamander (ulamander.com). Autor del software: Miguel Granados.
+
+This License is bilingual. The Spanish and English sections have equal force.
+If a court finds a conflict between them, the Spanish section prevails for users
+in Spain and Spanish-speaking jurisdictions; otherwise the English section prevails.
+
+Este texto es bilingüe. Las secciones en español e inglés tienen la misma fuerza.
+Si un tribunal apreciara conflicto entre ellas, prevalece el español para usuarios
+en España y jurisdicciones de lengua española; en el resto, prevalece el inglés.
+
+--------------------------------------------------------------------------------
+ESPAÑOL — Licencia de software Ulamander 1.0
+--------------------------------------------------------------------------------
+
+1. Concesión
+   Sujeto a esta Licencia y a un código de activación válido emitido por Ulamander
+   (o por quien Ulamander autorice), se le concede al licenciatario un derecho
+   personal, limitado, no exclusivo, intransferible (salvo permiso escrito de
+   Ulamander) y revocable de instalar y usar el software Ulamander PDF en
+   dispositivos de su control en macOS, Windows y Android, únicamente para su
+   propio uso lícito.
+
+2. Propiedad
+   El software, su código fuente (cuando se facilite), binarios, documentación,
+   marca, iconos y materiales de Ulamander son propiedad de Ulamander. Esta
+   Licencia no vende el software: solo concede el derecho de uso descrito.
+   Ulamander y ulamander.com son marcas del titular. Adobe, Acrobat y nombres
+   afines son marcas de sus respectivos dueños; Ulamander no está afiliado ni
+   respaldado por Adobe ni por Adobe Acrobat.
+
+3. Restricciones
+   El licenciatario NO puede, sin autorización escrita previa de Ulamander:
+   (a) redistribuir, sublicenciar, alquilar, arrendar, vender o publicar el
+       software, instaladores o claves de activación;
+   (b) reclamar afiliación, patrocinio o compatibilidad oficial con Adobe /
+       Acrobat, ni presentar esta app como producto Adobe;
+   (c) extraer, empaquetar o redistribuir assets, binarios, DLL, tipografías o
+       materiales propietarios de Adobe (ni de terceros) obtenidos de
+       instaladores ajenos;
+   (d) eliminar o alterar avisos de copyright, licencia o marca;
+   (e) eludir o atacar el sistema de activación o de verificación de licencia;
+   (f) usar el software para infringir derechos de terceros o la ley aplicable.
+
+   Se permite la ingeniería inversa solo en la medida estrictamente exigida por
+   la ley imperativa aplicable (p. ej. interoperabilidad), y nunca para crear un
+   producto competidor a partir del código o activos de Ulamander.
+
+4. Componentes de terceros
+   El software incorpora bibliotecas de código abierto (p. ej. PDF.js, pdf-lib,
+   Electron, React, Tesseract.js y otras listadas en THIRD_PARTY_NOTICES.md).
+   Esas piezas siguen sus propias licencias. El código y materiales propios de
+   Ulamander se rigen exclusivamente por esta Licencia.
+
+5. Datos y privacidad (local-first)
+   Los documentos PDF se abren, editan y guardan en el dispositivo del
+   licenciatario. Ulamander no opera un servicio de sincronización de documentos
+   en esta app. Pueden contactarse, cuando corresponda, servicios de Ulamander
+   para activación o comprobación de licencia (p. ej. licencias.ulamander.com)
+   y fuentes de actualización autorizadas; no se envían los PDF del usuario
+   con ese fin.
+
+6. Actualizaciones y soporte
+   Ulamander puede ofrecer actualizaciones a su discreción. Nada en esta
+   Licencia obliga a proporcionar soporte continuo, nuevas funciones ni
+   compatibilidad indefinida con sistemas operativos futuros.
+
+7. Terminación
+   Esta Licencia termina automáticamente si se incumple. Tras la terminación
+   debe dejar de usarse el software y destruir las copias bajo su control,
+   salvo la retención exigida por ley. Las cláusulas de propiedad, restricciones,
+   renuncia de garantía y limitación de responsabilidad sobreviven.
+
+8. Ausencia de garantía
+   EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍAS DE NINGÚN TIPO, EXPRESAS
+   O IMPLÍCITAS, INCLUIDAS —SIN LIMITACIÓN— COMERCIABILIDAD, IDONEIDAD PARA UN
+   FIN DETERMINADO Y NO INFRACCIÓN. El uso es bajo su propio riesgo.
+
+9. Limitación de responsabilidad
+   EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, ULAMANDER NO SERÁ RESPONSABLE DE
+   DAÑOS INDIRECTOS, INCIDENTALES, ESPECIALES, CONSECUENTES, LUCRO CESANTE,
+   PÉRDIDA DE DATOS O INTERRUPCIÓN DE NEGOCIO, NI DE UNA SUMA SUPERIOR A LO
+   PAGADO POR LA LICENCIA EN LOS DOCE (12) MESES ANTERIORES AL RECLAMO (O CERO
+   SI FUE GRATUITA).
+
+10. Contacto
+    ulamander.com · producto PDF: pdf.ulamander.com
+    Asuntos legales / licencias: a través de los canales publicados en
+    https://ulamander.com
+
+11. Ley aplicable
+    Salvo norma imperativa en contrario, esta Licencia se interpreta conforme a
+    la legislación española, sin perjuicio de los derechos irrenunciables del
+    consumidor.
+
+--------------------------------------------------------------------------------
+ENGLISH — Ulamander Software License 1.0
+--------------------------------------------------------------------------------
+
+1. Grant
+   Subject to this License and a valid activation code issued by Ulamander (or
+   a party authorized by Ulamander), the licensee is granted a personal,
+   limited, non-exclusive, non-transferable (except with Ulamander’s prior
+   written permission), revocable right to install and use Ulamander PDF on
+   devices under the licensee’s control on macOS, Windows, and Android, solely
+   for the licensee’s own lawful use.
+
+2. Ownership
+   The software, its source (when provided), binaries, documentation, brand,
+   icons, and Ulamander materials are owned by Ulamander. This License does not
+   sell the software; it only grants the use rights above. Ulamander and
+   ulamander.com are marks of the owner. Adobe, Acrobat, and related names are
+   marks of their respective owners; Ulamander is not affiliated with, endorsed
+   by, or sponsored by Adobe or Adobe Acrobat.
+
+3. Restrictions
+   Without Ulamander’s prior written permission, the licensee may NOT:
+   (a) redistribute, sublicense, rent, lease, sell, or publish the software,
+       installers, or activation keys;
+   (b) claim affiliation with, sponsorship by, or official compatibility with
+       Adobe / Acrobat, or present this app as an Adobe product;
+   (c) extract, package, or redistribute proprietary Adobe (or other third-party)
+       assets, binaries, DLLs, fonts, or materials obtained from third-party
+       installers;
+   (d) remove or alter copyright, license, or trademark notices;
+   (e) circumvent or attack the activation / license verification system;
+   (f) use the software to infringe third-party rights or applicable law.
+
+   Reverse engineering is allowed only to the extent strictly required by
+   mandatory applicable law (e.g. interoperability), and never to build a
+   competing product from Ulamander’s code or assets.
+
+4. Third-party components
+   The software includes open-source libraries (e.g. PDF.js, pdf-lib, Electron,
+   React, Tesseract.js and others listed in THIRD_PARTY_NOTICES.md). Those
+   components remain under their own licenses. Ulamander’s own code and
+   materials are governed solely by this License.
+
+5. Data and privacy (local-first)
+   PDF documents are opened, edited, and saved on the licensee’s device.
+   Ulamander does not operate document sync cloud for this app. Where
+   applicable, Ulamander services may be contacted for license activation or
+   checks (e.g. licencias.ulamander.com) and authorized update feeds; user PDFs
+   are not sent for that purpose.
+
+6. Updates and support
+   Ulamander may provide updates at its discretion. Nothing in this License
+   obliges ongoing support, new features, or indefinite OS compatibility.
+
+7. Termination
+   This License terminates automatically upon breach. After termination, stop
+   using the software and destroy copies under your control, except where law
+   requires retention. Ownership, restrictions, warranty disclaimer, and
+   liability limitation survive.
+
+8. Disclaimer of warranty
+   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Use is at your own risk.
+
+9. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, ULAMANDER SHALL NOT BE LIABLE FOR
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, LOST PROFITS, DATA LOSS, OR
+   BUSINESS INTERRUPTION DAMAGES, NOR FOR AN AMOUNT EXCEEDING FEES PAID FOR THE
+   LICENSE IN THE TWELVE (12) MONTHS BEFORE THE CLAIM (OR ZERO IF PROVIDED AT
+   NO CHARGE).
+
+10. Contact
+    ulamander.com · PDF product: pdf.ulamander.com
+    Legal / licensing: via channels published at https://ulamander.com
+
+11. Governing law
+    Except where mandatory consumer law provides otherwise, this License is
+    governed by the laws of Spain.
+
+END OF LICENSE / FIN DE LA LICENCIA
