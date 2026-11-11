@@ -10,11 +10,11 @@
   Read, annotate, sign, organize, protect, convert and OCR PDFs — **entirely on your own device.**
   No cloud. No account. No telemetry.
 
-  [![Latest release](https://img.shields.io/github/v/release/MiguelGranado/ulamander-pdf?color=fe702d&label=latest)](../../releases/latest)
-  [![Downloads](https://img.shields.io/github/downloads/MiguelGranado/ulamander-pdf/total?color=fe702d)](../../releases)
-  [![macOS](https://img.shields.io/badge/macOS-Intel%20%2B%20Apple%20Silicon-000000?logo=apple&logoColor=white)](../../releases/latest/download/Ulamander-PDF-macOS-universal.dmg)
-  [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?logo=windows&logoColor=white)](../../releases/latest)
-  [![Android](https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white)](../../releases/latest)
+  [![Latest release](https://img.shields.io/github/v/release/MiguelGranado/ulamander-pdf?color=fe702d&label=latest)](https://github.com/MiguelGranado/ulamander-pdf/releases/latest)
+  [![Downloads](https://img.shields.io/github/downloads/MiguelGranado/ulamander-pdf/total?color=fe702d)](https://github.com/MiguelGranado/ulamander-pdf/releases)
+  [![macOS](https://img.shields.io/badge/macOS-Intel%20%2B%20Apple%20Silicon-000000?logo=apple&logoColor=white)](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-macOS-universal.dmg)
+  [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?logo=windows&logoColor=white)](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-Setup-win-x64.exe)
+  [![Android](https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white)](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-android.apk)
   [![Languages](https://img.shields.io/badge/languages-EN%20%C2%B7%20IT%20%C2%B7%20ES-fe702d)](#languages)
   [![Access](https://img.shields.io/badge/access-personal%20activation%20key-002d5d)](#get-a-license)
 
@@ -45,7 +45,7 @@
 - In-app notice when a newer version is published.
 - Windows: file associations and context-menu entries **“Edit with Ulamander PDF”** (PDF) and **“Create PDF with Ulamander PDF”** (PNG, JPG, WebP, TXT, MD, HTML).
 
-Full history in the [CHANGELOG](CHANGELOG.md) and on the [Releases](../../releases) page.
+Full history in the [CHANGELOG](CHANGELOG.md) and on the [Releases](https://github.com/MiguelGranado/ulamander-pdf/releases) page.
 
 ### System requirements
 | Platform | Requirement |
@@ -193,13 +193,13 @@ Color, contrast and text‑size options; full keyboard navigation; command palet
 ## Downloads
 
 This repository ships **compiled installers only**. Grab the latest build from
-[**Releases**](../../releases/latest):
+[**Releases**](https://github.com/MiguelGranado/ulamander-pdf/releases/latest):
 
 | Platform | File | Notes |
 |---|---|---|
-| 🍎 **macOS** (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](../../releases/latest/download/Ulamander-PDF-macOS-universal.dmg) | Universal build, unsigned — see install notes |
-| 🪟 **Windows** (x64) | [`Ulamander-PDF-X.Y.Z-x64.exe`](../../releases/latest) | Universal build, unsigned — see install notes |
-| 🤖 **Android** | [`Ulamander-PDF-X.Y.Z.apk`](../../releases/latest) | Allow installs from this source |
+| 🍎 **macOS** (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-macOS-universal.dmg) | Universal build, unsigned — see install notes |
+| 🪟 **Windows** (x64) | [`Ulamander-PDF-Setup-win-x64.exe`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-Setup-win-x64.exe) | Installer, unsigned — see install notes |
+| 🤖 **Android** (8+) | [`Ulamander-PDF-android.apk`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-android.apk) | Allow installs from this source; update by installing the new APK |
 
 ### Install notes
 - **macOS** — the app isn't notarized yet, so Gatekeeper warns on first launch. Right‑click the app → **Open**

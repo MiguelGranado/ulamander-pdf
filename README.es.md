@@ -28,9 +28,9 @@ La mayoría de herramientas PDF te piden subir contratos, facturas y documentos 
 ## Descargas
 | Plataforma | Archivo |
 |---|---|
-| macOS (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](../../releases/latest/download/Ulamander-PDF-macOS-universal.dmg) |
-| Windows 10/11 x64 | [`Ulamander-PDF-X.Y.Z-x64.exe`](../../releases/latest) |
-| Android (APK) | [`Ulamander-PDF-X.Y.Z.apk`](../../releases/latest) |
+| macOS (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-macOS-universal.dmg) |
+| Windows 10/11 x64 | [`Ulamander-PDF-X.Y.Z-x64.exe`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest) |
+| Android (APK) | [`Ulamander-PDF-X.Y.Z.apk`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest) |
 
 Este repositorio contiene **solo instaladores compilados**. En macOS, clic derecho → *Abrir* la primera vez; en Windows, *Más información → Ejecutar de todas formas* (el instalador aún no está firmado).
 

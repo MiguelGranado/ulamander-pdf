@@ -28,9 +28,9 @@ Quasi tutti gli strumenti PDF ti chiedono di caricare contratti, fatture e docum
 ## Download
 | Piattaforma | File |
 |---|---|
-| macOS (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](../../releases/latest/download/Ulamander-PDF-macOS-universal.dmg) |
-| Windows 10/11 x64 | [`Ulamander-PDF-X.Y.Z-x64.exe`](../../releases/latest) |
-| Android (APK) | [`Ulamander-PDF-X.Y.Z.apk`](../../releases/latest) |
+| macOS (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-macOS-universal.dmg) |
+| Windows 10/11 x64 | [`Ulamander-PDF-X.Y.Z-x64.exe`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest) |
+| Android (APK) | [`Ulamander-PDF-X.Y.Z.apk`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest) |
 
 Questo repository contiene **solo installer compilati**. Su macOS: clic destro → *Apri* al primo avvio; su Windows: *Maggiori informazioni → Esegui comunque* (l’installer non è ancora firmato).
 

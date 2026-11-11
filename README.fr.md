@@ -30,9 +30,9 @@ La plupart des outils PDF vous demandent d’envoyer contrats, factures et pièc
 ## Téléchargements
 | Plateforme | Fichier |
 |---|---|
-| macOS (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](../../releases/latest/download/Ulamander-PDF-macOS-universal.dmg) |
-| Windows 10/11 x64 | [`Ulamander-PDF-X.Y.Z-x64.exe`](../../releases/latest) |
-| Android (APK) | [`Ulamander-PDF-X.Y.Z.apk`](../../releases/latest) |
+| macOS (Intel + Apple Silicon) | [`Ulamander-PDF-macOS-universal.dmg`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-macOS-universal.dmg) |
+| Windows 10/11 x64 | [`Ulamander-PDF-X.Y.Z-x64.exe`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest) |
+| Android (APK) | [`Ulamander-PDF-X.Y.Z.apk`](https://github.com/MiguelGranado/ulamander-pdf/releases/latest) |
 
 Ce dépôt ne contient que des **installateurs compilés**. Sur macOS : clic droit → *Ouvrir* au premier lancement ; sur Windows : *Informations complémentaires → Exécuter quand même* (l’installateur n’est pas encore signé).
 

@@ -13,4 +13,4 @@ Please email **info@ulamander.com** with the subject “Security — Ulamander P
 Do not open a public issue for security problems. We aim to reply within 72 hours.
 
 ## Verifying downloads
-Download installers only from this repository's [Releases](../../releases) or from [pdf.ulamander.com](https://pdf.ulamander.com).
+Download installers only from this repository's [Releases](https://github.com/MiguelGranado/ulamander-pdf/releases) or from [pdf.ulamander.com](https://pdf.ulamander.com).
