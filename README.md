@@ -15,7 +15,7 @@
   [![macOS](https://img.shields.io/badge/macOS-Intel%20%2B%20Apple%20Silicon-000000?logo=apple&logoColor=white)](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-macOS-universal.dmg)
   [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4?logo=windows&logoColor=white)](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-Setup-win-x64.exe)
   [![Android](https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white)](https://github.com/MiguelGranado/ulamander-pdf/releases/latest/download/Ulamander-PDF-android.apk)
-  [![Languages](https://img.shields.io/badge/languages-EN%20%C2%B7%20IT%20%C2%B7%20ES-fe702d)](#languages)
+  [![Languages](https://img.shields.io/badge/languages-EN%20%C2%B7%20IT%20%C2%B7%20ES%20%C2%B7%20FR-fe702d)](#languages)
   [![Access](https://img.shields.io/badge/access-personal%20activation%20key-002d5d)](#get-a-license)
 
   **[Download](#downloads)** · **[What's new](#whats-new)** · **[Features](#features)** · **[Tool wheel](#the-tool-wheel)** · **[Shortcuts](#keyboard-shortcuts)** · **[Pricing](#get-a-license)** · **[FAQ](#faq)** · **[Security](SECURITY.md)**
@@ -33,17 +33,18 @@
 
 ## What's new
 
-**0.2.2** · November 2026
-- **macOS universal installer**: one download for **Intel and Apple Silicon** Macs (macOS 11 or later).
-- New vector logo with solid white/black lettering and the document drawn as white paper; no stains around the PDF badge.
-- Security hardening (file-access allow-list, strict content policy), compression presets, `ulamander-pdf://` deep link.
+**0.2.27** · November 2026
+- **Default app for PDFs:** Settings → Documents → «Use Ulamander PDF to open PDFs…» (Android, Windows and Mac steps). The Windows installer now registers the app so it shows in Windows' «Default apps» list.
+- **Windows updates** run silently, in place, and reopen the app.
 
-**0.2.1** · November 2026
-- New logo and app icon on every platform, with light and dark variants.
-- Light theme with better contrast; uniform, rounded buttons; layout adapts to narrow windows.
-- Smoother freehand signature and instant tooltips.
-- In-app notice when a newer version is published.
-- Windows: file associations and context-menu entries **“Edit with Ulamander PDF”** (PDF) and **“Create PDF with Ulamander PDF”** (PNG, JPG, WebP, TXT, MD, HTML).
+**0.2.23 – 0.2.26** · November 2026
+- Zoom **+ / −** no longer jumps; page canvas size is capped so phones don't run out of memory at high zoom.
+- **Recent files:** swipe right to remove, swipe left to share. Edit panel can be folded to a pill on phones.
+- **Save / Discard / Cancel** dialog when leaving a document with changes (Mac, Windows, Android).
+- Create → **Images to PDF / Merge PDF** with thumbnails, ordering and multi-select. New icon set (Lucide), light/dark theme fixes, better contrast.
+
+**0.2.19** · November 2026
+- Fixed the desktop security policy blocking the app's own files (password protection module); faster start (OCR, fonts and password module load on demand).
 
 Full history in the [CHANGELOG](CHANGELOG.md) and on the [Releases](https://github.com/MiguelGranado/ulamander-pdf/releases) page.
 
