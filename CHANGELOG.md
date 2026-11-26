@@ -2,6 +2,10 @@
 
 All notable changes to Ulamander PDF. Newest first. Author: Miguel Granados.
 
+## 0.2.31 — 2026-11-26
+### Added
+- **Windows Explorer PDF thumbnails:** a native shell extension (SharpShell + PDFium) now renders the real first page of a PDF as its thumbnail in Explorer's large/extra-large icon views and the preview pane, instead of the generic app icon — matching what Adobe Acrobat used to do on install.
+
 ## 0.2.27 — 2026-11-12
 ### Added
 - **Default app for PDFs:** Settings → Documents → «Use Ulamander PDF to open PDFs…». Android opens the system «Default apps» screen, Windows opens Settings → Default apps, Mac shows the Finder steps. The Windows installer now also registers the app so it appears in Windows' «Default apps» list (it could not be listed before).

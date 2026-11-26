@@ -33,6 +33,9 @@
 
 ## What's new
 
+**0.2.31** · November 2026
+- **Windows:** the Explorer now shows the real first page of a PDF as its icon in large/extra-large icon view and the preview pane, instead of the generic Ulamander PDF icon.
+
 **0.2.27** · November 2026
 - **Default app for PDFs:** Settings → Documents → «Use Ulamander PDF to open PDFs…» (Android, Windows and Mac steps). The Windows installer now registers the app so it shows in Windows' «Default apps» list.
 - **Windows updates** run silently, in place, and reopen the app.
